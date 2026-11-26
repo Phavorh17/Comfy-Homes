@@ -213,6 +213,7 @@ body {
   text-align: center;
   letter-spacing: var(--mainSpacing);
   margin-bottom: 2rem;
+}
 
 /*---------- Cart Item -------------------- */
 .cart-item {
@@ -258,5 +259,3 @@ body {
   text-transform: capitalize;
   margin-bottom: 1rem;
 }
-
-/*--------------- End of Cart ---------------- */
